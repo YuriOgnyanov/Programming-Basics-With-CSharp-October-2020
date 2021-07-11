@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\10. Invalid Number\bin\Debug\netcoreapp3.1\10. Invalid Number.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\10. Invalid Number\obj\Debug\netcoreapp3.1\10. Invalid Number.genruntimeconfig.cache

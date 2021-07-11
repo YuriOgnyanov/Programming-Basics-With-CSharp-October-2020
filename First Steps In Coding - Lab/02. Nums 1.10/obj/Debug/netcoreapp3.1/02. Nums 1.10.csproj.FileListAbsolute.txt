@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\02. Nums 1.10\bin\Debug\netcoreapp3.1\02. Nums 1.10.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\02. Nums 1.10\bin\Debug\netcoreapp3.1\02. Nums 1.10.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\02. Nums 1.10\bin\Debug\netcoreapp3.1\02. Nums 1.10.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\02. Nums 1.10\bin\Debug\netcoreapp3.1\02. Nums 1.10.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\02. Nums 1.10\bin\Debug\netcoreapp3.1\02. Nums 1.10.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\02. Nums 1.10\bin\Debug\netcoreapp3.1\02. Nums 1.10.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\02. Nums 1.10\obj\Debug\netcoreapp3.1\02. Nums 1.10.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\02. Nums 1.10\obj\Debug\netcoreapp3.1\02. Nums 1.10.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\02. Nums 1.10\obj\Debug\netcoreapp3.1\02. Nums 1.10.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\02. Nums 1.10\obj\Debug\netcoreapp3.1\02. Nums 1.10.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\02. Nums 1.10\obj\Debug\netcoreapp3.1\02. Nums 1.10.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\02. Nums 1.10\obj\Debug\netcoreapp3.1\02. Nums 1.10.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\02. Nums 1.10\obj\Debug\netcoreapp3.1\02. Nums 1.10.genruntimeconfig.cache

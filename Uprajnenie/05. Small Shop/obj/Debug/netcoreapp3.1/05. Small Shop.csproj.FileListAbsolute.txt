@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.genruntimeconfig.cache

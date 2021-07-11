@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.genruntimeconfig.cache

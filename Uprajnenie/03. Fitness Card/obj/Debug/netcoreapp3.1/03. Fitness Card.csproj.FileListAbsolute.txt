@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Fitness Card\bin\Debug\netcoreapp3.1\03. Fitness Card.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Fitness Card\obj\Debug\netcoreapp3.1\03. Fitness Card.genruntimeconfig.cache

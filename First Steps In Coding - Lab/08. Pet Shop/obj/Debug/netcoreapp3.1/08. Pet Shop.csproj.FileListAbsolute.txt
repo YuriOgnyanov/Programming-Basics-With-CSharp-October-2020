@@ -1,0 +1,12 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.genruntimeconfig.cache

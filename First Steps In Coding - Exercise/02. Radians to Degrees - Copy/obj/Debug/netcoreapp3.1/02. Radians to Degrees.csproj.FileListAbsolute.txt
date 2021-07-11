@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.genruntimeconfig.cache

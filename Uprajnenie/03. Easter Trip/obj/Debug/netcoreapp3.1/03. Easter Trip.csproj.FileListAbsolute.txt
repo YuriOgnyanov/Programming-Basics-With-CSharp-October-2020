@@ -1,0 +1,12 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.genruntimeconfig.cache

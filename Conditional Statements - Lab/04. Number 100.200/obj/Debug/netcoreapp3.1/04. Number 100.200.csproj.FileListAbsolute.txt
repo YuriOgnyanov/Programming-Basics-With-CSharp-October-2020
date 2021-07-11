@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\04. Number 100.200\bin\Debug\netcoreapp3.1\04. Number 100.200.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\04. Number 100.200\bin\Debug\netcoreapp3.1\04. Number 100.200.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\04. Number 100.200\bin\Debug\netcoreapp3.1\04. Number 100.200.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\04. Number 100.200\bin\Debug\netcoreapp3.1\04. Number 100.200.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\04. Number 100.200\bin\Debug\netcoreapp3.1\04. Number 100.200.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\04. Number 100.200\bin\Debug\netcoreapp3.1\04. Number 100.200.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\04. Number 100.200\obj\Debug\netcoreapp3.1\04. Number 100.200.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\04. Number 100.200\obj\Debug\netcoreapp3.1\04. Number 100.200.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\04. Number 100.200\obj\Debug\netcoreapp3.1\04. Number 100.200.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\04. Number 100.200\obj\Debug\netcoreapp3.1\04. Number 100.200.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\04. Number 100.200\obj\Debug\netcoreapp3.1\04. Number 100.200.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\04. Number 100.200\obj\Debug\netcoreapp3.1\04. Number 100.200.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\04. Number 100.200\obj\Debug\netcoreapp3.1\04. Number 100.200.genruntimeconfig.cache

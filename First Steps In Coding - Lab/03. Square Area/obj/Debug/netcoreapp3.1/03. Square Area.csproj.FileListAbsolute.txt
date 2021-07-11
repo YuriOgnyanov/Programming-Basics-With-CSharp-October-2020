@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\03. Square Area\bin\Debug\netcoreapp3.1\03. Square Area.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\03. Square Area\bin\Debug\netcoreapp3.1\03. Square Area.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\03. Square Area\bin\Debug\netcoreapp3.1\03. Square Area.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\03. Square Area\bin\Debug\netcoreapp3.1\03. Square Area.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\03. Square Area\bin\Debug\netcoreapp3.1\03. Square Area.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\03. Square Area\bin\Debug\netcoreapp3.1\03. Square Area.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\03. Square Area\obj\Debug\netcoreapp3.1\03. Square Area.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\03. Square Area\obj\Debug\netcoreapp3.1\03. Square Area.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\03. Square Area\obj\Debug\netcoreapp3.1\03. Square Area.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\03. Square Area\obj\Debug\netcoreapp3.1\03. Square Area.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\03. Square Area\obj\Debug\netcoreapp3.1\03. Square Area.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\03. Square Area\obj\Debug\netcoreapp3.1\03. Square Area.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\03. Square Area\obj\Debug\netcoreapp3.1\03. Square Area.genruntimeconfig.cache

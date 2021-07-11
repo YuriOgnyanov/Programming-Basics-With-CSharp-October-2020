@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.genruntimeconfig.cache

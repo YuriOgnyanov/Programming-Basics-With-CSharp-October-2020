@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\07. Projects Creation\bin\Debug\netcoreapp3.1\07. Projects Creation.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\07. Projects Creation\obj\Debug\netcoreapp3.1\07. Projects Creation.genruntimeconfig.cache

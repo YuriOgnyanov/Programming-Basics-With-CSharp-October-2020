@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\07\bin\Debug\netcoreapp3.1\07. Working Time.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\07\bin\Debug\netcoreapp3.1\07. Working Time.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\07\bin\Debug\netcoreapp3.1\07. Working Time.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\07\bin\Debug\netcoreapp3.1\07. Working Time.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\07\bin\Debug\netcoreapp3.1\07. Working Time.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\07\bin\Debug\netcoreapp3.1\07. Working Time.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\07\obj\Debug\netcoreapp3.1\07. Working Time.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\07\obj\Debug\netcoreapp3.1\07. Working Time.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\07\obj\Debug\netcoreapp3.1\07. Working Time.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\07\obj\Debug\netcoreapp3.1\07. Working Time.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\07\obj\Debug\netcoreapp3.1\07. Working Time.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\07\obj\Debug\netcoreapp3.1\07. Working Time.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\07\obj\Debug\netcoreapp3.1\07. Working Time.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\02. Greater Number\bin\Debug\netcoreapp3.1\02. Greater Number.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.genruntimeconfig.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\checksConditionalStatements - Lab\02. Greater Number\obj\Debug\netcoreapp3.1\02. Greater Number.csprojAssemblyReference.cache

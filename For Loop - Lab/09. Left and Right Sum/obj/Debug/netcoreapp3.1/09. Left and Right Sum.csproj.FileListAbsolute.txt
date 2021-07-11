@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Basic\For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Basic\For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Basic\For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Basic\For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Basic\For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Basic\For Loop - Lab\09. Left and Right Sum\bin\Debug\netcoreapp3.1\09. Left and Right Sum.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Basic\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.csproj.AssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Basic\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Basic\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Basic\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Basic\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Basic\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# Basic\For Loop - Lab\09. Left and Right Sum\obj\Debug\netcoreapp3.1\09. Left and Right Sum.genruntimeconfig.cache

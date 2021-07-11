@@ -1,0 +1,12 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\04. InchesToCentimeters\bin\Debug\netcoreapp3.1\05. Greeting by Name.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\04. InchesToCentimeters\bin\Debug\netcoreapp3.1\05. Greeting by Name.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\04. InchesToCentimeters\bin\Debug\netcoreapp3.1\05. Greeting by Name.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\04. InchesToCentimeters\bin\Debug\netcoreapp3.1\05. Greeting by Name.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\04. InchesToCentimeters\bin\Debug\netcoreapp3.1\05. Greeting by Name.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\04. InchesToCentimeters\bin\Debug\netcoreapp3.1\05. Greeting by Name.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\04. InchesToCentimeters\obj\Debug\netcoreapp3.1\05. Greeting by Name.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\04. InchesToCentimeters\obj\Debug\netcoreapp3.1\05. Greeting by Name.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\04. InchesToCentimeters\obj\Debug\netcoreapp3.1\05. Greeting by Name.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\04. InchesToCentimeters\obj\Debug\netcoreapp3.1\05. Greeting by Name.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\04. InchesToCentimeters\obj\Debug\netcoreapp3.1\05. Greeting by Name.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\04. InchesToCentimeters\obj\Debug\netcoreapp3.1\05. Greeting by Name.genruntimeconfig.cache

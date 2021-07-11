@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Painting Eggs\bin\Debug\netcoreapp3.1\03. Painting Eggs.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\Uprajnenie\03. Painting Eggs\obj\Debug\netcoreapp3.1\03. Painting Eggs.genruntimeconfig.cache

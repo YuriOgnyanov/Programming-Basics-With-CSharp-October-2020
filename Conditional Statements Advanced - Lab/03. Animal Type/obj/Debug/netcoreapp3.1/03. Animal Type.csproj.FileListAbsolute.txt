@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\03. Animal Type\bin\Debug\netcoreapp3.1\03. Animal Type.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\03. Animal Type\obj\Debug\netcoreapp3.1\03. Animal Type.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\exerciseSimpleOperationsAndCalculations\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.genruntimeconfig.cache

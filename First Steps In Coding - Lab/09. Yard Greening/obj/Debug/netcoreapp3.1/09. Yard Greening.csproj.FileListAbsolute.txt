@@ -1,0 +1,12 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\09. Yard Greening\bin\Debug\netcoreapp3.1\09. Yard Greening.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\SimpleOperationsAndCalculations\09. Yard Greening\obj\Debug\netcoreapp3.1\09. Yard Greening.genruntimeconfig.cache

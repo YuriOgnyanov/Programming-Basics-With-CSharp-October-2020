@@ -1,0 +1,13 @@
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.exe
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.deps.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.runtimeconfig.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.runtimeconfig.dev.json
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.csprojAssemblyReference.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.AssemblyInfoInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.AssemblyInfo.cs
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.csproj.CoreCompileInputs.cache
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.dll
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.pdb
+C:\Users\yurio\Documents\Visual Studio 2019\ProgramsBasics\01. Day of Week\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.genruntimeconfig.cache
